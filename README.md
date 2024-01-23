@@ -133,6 +133,10 @@ Attribution-ShareAlike 4.0 International License</a>.
 
 * [wasmparser](https://github.com/yurydelendik/wasmparser) [![](https://img.shields.io/crates/v/wasmparser.svg)](https://crates.io/crates/wasmparser) [![](https://api.travis-ci.org/yurydelendik/wasmparser.svg?branch=master)](https://travis-ci.org/yurydelendik/wasmparser) — A simple, event-driven library for parsing WebAssembly binary files.
 
+### Building WebAssembly Apps using Rust
+
+* [spin-sdk](https://github.com/fermyon/spin) [![](https://img.shields.io/crates/v/spin-sdk.svg)](https://crates.io/crates/spin-sdk) — An open source developer tool for building and running serverless applications powered by WebAssembly. 
+
 ## Resources
 
 * [The Rust and WebAssembly Book](https://rustwasm.github.io/book) — The official Rust and WebAssembly book authored by the Rust and WebAssembly domain working group.
